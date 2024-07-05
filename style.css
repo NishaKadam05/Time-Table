@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    margin-top: 50px;
+}
+body{
+    background-color: rgb(236, 246, 236);
+}
+table{
+    margin: 200px;
+    margin-top: 70px;
+}
+table,th,td{
+    border: 1px solid;
+    border-collapse: collapse;
+    font-size: 20px;
+}
+
+.main{
+    padding: 10px;
+    width: 1000px;
+    height: 500px;
+}
+
+td{
+    text-align: center;
+}
+
+td:hover{
+    background-color: rgb(10, 142, 25);
+}
